@@ -2,7 +2,7 @@
 
 Welcome to the GenAI_Omics research group! This is a collaborative space for discussing cutting-edge publications, innovative ideas, and other fascinating topics at the intersection of Generative AI and Omics.
 
-We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, please contact Dr. Li Lei at lileichinagermany@gmail.com for the Zoom link.
+We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, please register for the Zoom link. Here is the [registration link](https://lbnl.zoom.us/meeting/register/mnq3wg4RTD23053uY5NBUQ).
 
 ---
 
