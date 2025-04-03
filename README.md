@@ -9,9 +9,10 @@ We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, ple
 ## Meeting Schedule
 Upcoming Meetings
 
-*** April 4, 2025: NO meeting!***
+*** April 4, 2025: NO meeting! Enjoy the spring break!***
+*** April 11, 2025: NO meeting! Enjoy the spring break!***
 
-April 11, 2025: facilitated by [Wejia Su](https://www.linkedin.com/in/weijia-su/)
+April 18, 2025: facilitated by [Wejia Su](https://www.linkedin.com/in/weijia-su/)
 
 Discussion Paper:
 Cui, H., Wang, C., Maan, H. et al. scGPT: toward building a foundation model for single-cell multi-omics using generative AI. Nat Methods 21, 1470–1480 (2024). https://doi.org/10.1038/s41592-024-02201-0
