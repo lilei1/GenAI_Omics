@@ -10,6 +10,7 @@ We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, ple
 Upcoming Meetings
 
 *** April 4, 2025: NO meeting! Enjoy the spring break!***
+
 *** April 11, 2025: NO meeting! Enjoy the spring break!***
 
 April 18, 2025: facilitated by [Wejia Su](https://www.linkedin.com/in/weijia-su/)
