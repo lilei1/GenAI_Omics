@@ -8,10 +8,11 @@ We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, ple
 
 ## Meeting Schedule
 Upcoming Meetings
-April 25, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
+May 2, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
 
 Discussion Paper:
-Dalla-Torre, H., Gonzalez, L., Mendoza-Revilla, J. et al. Nucleotide Transformer: building and evaluating robust foundation models for human genomics. Nat Methods 22, 287–297 (2025). https://doi.org/10.1038/s41592-024-02523-z
+Zhou, Z., Ji, Y., Li, W., Dutta, P., Davuluri, R., & Liu, H. (2023). Dnabert-2: Efficient foundation model and benchmark for multi-species genome. arXiv preprint arXiv:2306.15006. 
+https://doi.org/10.48550/arXiv.2306.15006
 
 ## Previous Meetings
 
