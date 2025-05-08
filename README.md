@@ -8,13 +8,21 @@ We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, ple
 
 ## Meeting Schedule
 Upcoming Meetings
+
+May 9, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
+
+Discussion Paper:
+Zhou, Z., Riley, R., Kautsar, S., Wu, W., Egan, R., Hofmeyr, S., ... & Wang, Z. (2025). GenomeOcean: An Efficient Genome Foundation Model Trained on Large-Scale Metagenomic Assemblies. bioRxiv, 2025-01. 
+https://doi.org/10.1101/2025.01.30.635558
+
+## Previous Meetings
+
 May 2, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
 
 Discussion Paper:
 Zhou, Z., Ji, Y., Li, W., Dutta, P., Davuluri, R., & Liu, H. (2023). Dnabert-2: Efficient foundation model and benchmark for multi-species genome. arXiv preprint arXiv:2306.15006. 
 https://doi.org/10.48550/arXiv.2306.15006
 
-## Previous Meetings
 
 April 18, 2025: facilitated by [Wejia Su](https://www.linkedin.com/in/weijia-su/)
 
