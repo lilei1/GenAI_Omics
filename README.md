@@ -8,13 +8,14 @@ We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, ple
 
 ## Meeting Schedule
 Upcoming Meetings
+*** May 23, 2025, No Meeting due to Li's conference!***
+
+## Previous Meetings
 May 16, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
 
 Pearce, J. D., Simmonds, S. E., Mahmoudabadi, G., Krishnan, L., Palla, G., Istrate, A. M., ... & Karaletsos, T. (2025). A Cross-Species Generative Cell Atlas Across 1.5 Billion Years of Evolution: The TranscriptFormer Single-cell Model. bioRxiv, 2025-04
 
 https://doi.org/10.1101/2025.04.25.650731
-
-## Previous Meetings
 
 May 9, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
 
