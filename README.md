@@ -8,7 +8,8 @@ We meet weekly on **Fridays from 1:30 PM to 2:30 PM PST** via Zoom. To join, ple
 
 ## Meeting Schedule
 Upcoming Meetings
-*** May 23, 2025, No Meeting due to Li's conference!***
+
+***May 23, 2025, No Meeting due to Li's conference!***
 
 ## Previous Meetings
 May 16, 2025: facilitated by [Li Lei](https://www.linkedin.com/in/li-lei-bioinfo/)
